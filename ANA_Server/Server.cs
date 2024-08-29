@@ -60,7 +60,7 @@ namespace ANA_Server
                 ArraySegment<byte> bufferSegment = new ArraySegment<byte>(buffer);
                 int receiveBytes = await client.ReceiveAsync(bufferSegment, SocketFlags.None);
                 string receivedData = Encoding.ASCII.GetString(buffer, 0, receiveBytes);
-                Console.WriteLine($"Received data: {receivedData}");
+                Console.WriteLine($"{receivedData}");
 
                 // Process for receive data...
                 List<DataModel> processedData = ProcessData(receivedData);

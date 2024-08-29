@@ -1,46 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\github\\ANA_Project\\",
+  "WorkspaceRootPath": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\realtime\\ANA_Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C2A99DB-7574-4D96-B757-8D552F7ADE3E}|ANA_Server\\ANA_Server.csproj|c:\\users\\cleme\\documents\\_ana_project\\github\\ana_project\\ana_server\\mocks\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3C2A99DB-7574-4D96-B757-8D552F7ADE3E}|ANA_Server\\ANA_Server.csproj|solutionrelative:ana_server\\mocks\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDF1FDDA-3A64-4773-A399-0838D8BD7533}|ANA_Client\\ANA_Client.csproj|c:\\users\\cleme\\documents\\_ana_project\\github\\ana_project\\ana_client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDF1FDDA-3A64-4773-A399-0838D8BD7533}|ANA_Client\\ANA_Client.csproj|solutionrelative:ana_client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDF1FDDA-3A64-4773-A399-0838D8BD7533}|ANA_Client\\ANA_Client.csproj|c:\\users\\cleme\\documents\\_ana_project\\github\\ana_project\\ana_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDF1FDDA-3A64-4773-A399-0838D8BD7533}|ANA_Client\\ANA_Client.csproj|solutionrelative:ana_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C2A99DB-7574-4D96-B757-8D552F7ADE3E}|ANA_Server\\ANA_Server.csproj|c:\\users\\cleme\\documents\\_ana_project\\github\\ana_project\\ana_server\\abstract\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C2A99DB-7574-4D96-B757-8D552F7ADE3E}|ANA_Server\\ANA_Server.csproj|solutionrelative:ana_server\\abstract\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C2A99DB-7574-4D96-B757-8D552F7ADE3E}|ANA_Server\\ANA_Server.csproj|c:\\users\\cleme\\documents\\_ana_project\\github\\ana_project\\ana_server\\abstract\\hosting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C2A99DB-7574-4D96-B757-8D552F7ADE3E}|ANA_Server\\ANA_Server.csproj|solutionrelative:ana_server\\abstract\\hosting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C2A99DB-7574-4D96-B757-8D552F7ADE3E}|ANA_Server\\ANA_Server.csproj|c:\\users\\cleme\\documents\\_ana_project\\github\\ana_project\\ana_server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C2A99DB-7574-4D96-B757-8D552F7ADE3E}|ANA_Server\\ANA_Server.csproj|solutionrelative:ana_server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C2A99DB-7574-4D96-B757-8D552F7ADE3E}|ANA_Server\\ANA_Server.csproj|c:\\users\\cleme\\documents\\_ana_project\\github\\ana_project\\ana_server\\mocks\\info.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3C2A99DB-7574-4D96-B757-8D552F7ADE3E}|ANA_Server\\ANA_Server.csproj|solutionrelative:ana_server\\mocks\\info.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C2A99DB-7574-4D96-B757-8D552F7ADE3E}|ANA_Server\\ANA_Server.csproj|c:\\users\\cleme\\documents\\_ana_project\\github\\ana_project\\ana_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C2A99DB-7574-4D96-B757-8D552F7ADE3E}|ANA_Server\\ANA_Server.csproj|c:\\users\\cleme\\documents\\_ana_project\\realtime\\ana_server\\ana_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C2A99DB-7574-4D96-B757-8D552F7ADE3E}|ANA_Server\\ANA_Server.csproj|solutionrelative:ana_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDF1FDDA-3A64-4773-A399-0838D8BD7533}|ANA_Client\\ANA_Client.csproj|c:\\users\\cleme\\documents\\_ana_project\\github\\ana_project\\ana_client\\events\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDF1FDDA-3A64-4773-A399-0838D8BD7533}|ANA_Client\\ANA_Client.csproj|solutionrelative:ana_client\\events\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDF1FDDA-3A64-4773-A399-0838D8BD7533}|ANA_Client\\ANA_Client.csproj|c:\\users\\cleme\\documents\\_ana_project\\realtime\\ana_server\\ana_client\\events\\keylogger.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDF1FDDA-3A64-4773-A399-0838D8BD7533}|ANA_Client\\ANA_Client.csproj|solutionrelative:ana_client\\events\\keylogger.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDF1FDDA-3A64-4773-A399-0838D8BD7533}|ANA_Client\\ANA_Client.csproj|c:\\users\\cleme\\documents\\_ana_project\\github\\ana_project\\ana_client\\abstract\\localposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C2A99DB-7574-4D96-B757-8D552F7ADE3E}|ANA_Server\\ANA_Server.csproj|c:\\users\\cleme\\documents\\_ana_project\\realtime\\ana_server\\ana_server\\mocks\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C2A99DB-7574-4D96-B757-8D552F7ADE3E}|ANA_Server\\ANA_Server.csproj|solutionrelative:ana_server\\mocks\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A99DB-7574-4D96-B757-8D552F7ADE3E}|ANA_Server\\ANA_Server.csproj|c:\\users\\cleme\\documents\\_ana_project\\realtime\\ana_server\\ana_server\\mocks\\info.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C2A99DB-7574-4D96-B757-8D552F7ADE3E}|ANA_Server\\ANA_Server.csproj|solutionrelative:ana_server\\mocks\\info.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF1FDDA-3A64-4773-A399-0838D8BD7533}|ANA_Client\\ANA_Client.csproj|c:\\users\\cleme\\documents\\_ana_project\\realtime\\ana_server\\ana_client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF1FDDA-3A64-4773-A399-0838D8BD7533}|ANA_Client\\ANA_Client.csproj|solutionrelative:ana_client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A99DB-7574-4D96-B757-8D552F7ADE3E}|ANA_Server\\ANA_Server.csproj|c:\\users\\cleme\\documents\\_ana_project\\realtime\\ana_server\\ana_server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A99DB-7574-4D96-B757-8D552F7ADE3E}|ANA_Server\\ANA_Server.csproj|solutionrelative:ana_server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF1FDDA-3A64-4773-A399-0838D8BD7533}|ANA_Client\\ANA_Client.csproj|c:\\users\\cleme\\documents\\_ana_project\\realtime\\ana_server\\ana_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF1FDDA-3A64-4773-A399-0838D8BD7533}|ANA_Client\\ANA_Client.csproj|solutionrelative:ana_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A99DB-7574-4D96-B757-8D552F7ADE3E}|ANA_Server\\ANA_Server.csproj|c:\\users\\cleme\\documents\\_ana_project\\realtime\\ana_server\\ana_server\\mocks\\keylog.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3C2A99DB-7574-4D96-B757-8D552F7ADE3E}|ANA_Server\\ANA_Server.csproj|solutionrelative:ana_server\\mocks\\keylog.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF1FDDA-3A64-4773-A399-0838D8BD7533}|ANA_Client\\ANA_Client.csproj|c:\\users\\cleme\\documents\\_ana_project\\realtime\\ana_server\\ana_client\\abstract\\localposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDF1FDDA-3A64-4773-A399-0838D8BD7533}|ANA_Client\\ANA_Client.csproj|solutionrelative:ana_client\\abstract\\localposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A99DB-7574-4D96-B757-8D552F7ADE3E}|ANA_Server\\ANA_Server.csproj|c:\\users\\cleme\\documents\\_ana_project\\realtime\\ana_server\\ana_server\\abstract\\hosting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A99DB-7574-4D96-B757-8D552F7ADE3E}|ANA_Server\\ANA_Server.csproj|solutionrelative:ana_server\\abstract\\hosting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A99DB-7574-4D96-B757-8D552F7ADE3E}|ANA_Server\\ANA_Server.csproj|c:\\users\\cleme\\documents\\_ana_project\\realtime\\ana_server\\ana_server\\abstract\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A99DB-7574-4D96-B757-8D552F7ADE3E}|ANA_Server\\ANA_Server.csproj|solutionrelative:ana_server\\abstract\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,28 +54,39 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Data.json",
-              "DocumentMoniker": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\github\\ANA_Project\\ANA_Server\\Mocks\\Data.json",
-              "RelativeDocumentMoniker": "ANA_Server\\Mocks\\Data.json",
-              "ToolTip": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\github\\ANA_Project\\ANA_Server\\Mocks\\Data.json",
-              "RelativeToolTip": "ANA_Server\\Mocks\\Data.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-29T07:32:30.231Z",
-              "EditorCaption": ""
+              "DocumentIndex": 7,
+              "Title": "Keylog.txt",
+              "DocumentMoniker": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\realtime\\ANA_Server\\ANA_Server\\Mocks\\Keylog.txt",
+              "RelativeDocumentMoniker": "ANA_Server\\Mocks\\Keylog.txt",
+              "ToolTip": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\realtime\\ANA_Server\\ANA_Server\\Mocks\\Keylog.txt",
+              "RelativeToolTip": "ANA_Server\\Mocks\\Keylog.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-29T09:48:00.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Data.json",
+              "DocumentMoniker": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\realtime\\ANA_Server\\ANA_Server\\Mocks\\Data.json",
+              "RelativeDocumentMoniker": "ANA_Server\\Mocks\\Data.json",
+              "ToolTip": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\realtime\\ANA_Server\\ANA_Server\\Mocks\\Data.json",
+              "RelativeToolTip": "ANA_Server\\Mocks\\Data.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T07:32:30.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "DataModel.cs",
-              "DocumentMoniker": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\github\\ANA_Project\\ANA_Server\\Abstract\\DataModel.cs",
+              "DocumentMoniker": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\realtime\\ANA_Server\\ANA_Server\\Abstract\\DataModel.cs",
               "RelativeDocumentMoniker": "ANA_Server\\Abstract\\DataModel.cs",
-              "ToolTip": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\github\\ANA_Project\\ANA_Server\\Abstract\\DataModel.cs",
+              "ToolTip": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\realtime\\ANA_Server\\ANA_Server\\Abstract\\DataModel.cs",
               "RelativeToolTip": "ANA_Server\\Abstract\\DataModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -79,11 +94,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "LocalPosition.cs",
-              "DocumentMoniker": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\github\\ANA_Project\\ANA_Client\\Abstract\\LocalPosition.cs",
+              "DocumentMoniker": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\realtime\\ANA_Server\\ANA_Client\\Abstract\\LocalPosition.cs",
               "RelativeDocumentMoniker": "ANA_Client\\Abstract\\LocalPosition.cs",
-              "ToolTip": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\github\\ANA_Project\\ANA_Client\\Abstract\\LocalPosition.cs",
+              "ToolTip": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\realtime\\ANA_Server\\ANA_Client\\Abstract\\LocalPosition.cs",
               "RelativeToolTip": "ANA_Client\\Abstract\\LocalPosition.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -91,23 +106,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserInfo.cs",
-              "DocumentMoniker": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\github\\ANA_Project\\ANA_Client\\Events\\UserInfo.cs",
-              "RelativeDocumentMoniker": "ANA_Client\\Events\\UserInfo.cs",
-              "ToolTip": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\github\\ANA_Project\\ANA_Client\\Events\\UserInfo.cs",
-              "RelativeToolTip": "ANA_Client\\Events\\UserInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T22:23:07.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\github\\ANA_Project\\ANA_Client\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\realtime\\ANA_Server\\ANA_Client\\Program.cs",
               "RelativeDocumentMoniker": "ANA_Client\\Program.cs",
-              "ToolTip": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\github\\ANA_Project\\ANA_Client\\Program.cs",
+              "ToolTip": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\realtime\\ANA_Server\\ANA_Client\\Program.cs",
               "RelativeToolTip": "ANA_Client\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -115,23 +118,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\github\\ANA_Project\\ANA_Client\\Client.cs",
+              "DocumentMoniker": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\realtime\\ANA_Server\\ANA_Client\\Client.cs",
               "RelativeDocumentMoniker": "ANA_Client\\Client.cs",
-              "ToolTip": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\github\\ANA_Project\\ANA_Client\\Client.cs",
+              "ToolTip": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\realtime\\ANA_Server\\ANA_Client\\Client.cs",
               "RelativeToolTip": "ANA_Client\\Client.cs",
-              "ViewState": "AQIAAF4AAAAAAAAAAAAcwAsAAAAAAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwBUAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T14:10:21.746Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Info.json",
-              "DocumentMoniker": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\github\\ANA_Project\\ANA_Server\\Mocks\\Info.json",
+              "DocumentMoniker": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\realtime\\ANA_Server\\ANA_Server\\Mocks\\Info.json",
               "RelativeDocumentMoniker": "ANA_Server\\Mocks\\Info.json",
-              "ToolTip": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\github\\ANA_Project\\ANA_Server\\Mocks\\Info.json",
+              "ToolTip": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\realtime\\ANA_Server\\ANA_Server\\Mocks\\Info.json",
               "RelativeToolTip": "ANA_Server\\Mocks\\Info.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -139,23 +142,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\github\\ANA_Project\\ANA_Server\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\realtime\\ANA_Server\\ANA_Server\\Program.cs",
               "RelativeDocumentMoniker": "ANA_Server\\Program.cs",
-              "ToolTip": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\github\\ANA_Project\\ANA_Server\\Program.cs",
+              "ToolTip": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\realtime\\ANA_Server\\ANA_Server\\Program.cs",
               "RelativeToolTip": "ANA_Server\\Program.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAcwBMAAAAEAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwBsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T10:02:30.225Z"
+              "WhenOpened": "2024-05-24T10:02:30.225Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Hosting.cs",
-              "DocumentMoniker": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\github\\ANA_Project\\ANA_Server\\Abstract\\Hosting.cs",
+              "DocumentMoniker": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\realtime\\ANA_Server\\ANA_Server\\Abstract\\Hosting.cs",
               "RelativeDocumentMoniker": "ANA_Server\\Abstract\\Hosting.cs",
-              "ToolTip": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\github\\ANA_Project\\ANA_Server\\Abstract\\Hosting.cs",
+              "ToolTip": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\realtime\\ANA_Server\\ANA_Server\\Abstract\\Hosting.cs",
               "RelativeToolTip": "ANA_Server\\Abstract\\Hosting.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -165,13 +169,26 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Server.cs",
-              "DocumentMoniker": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\github\\ANA_Project\\ANA_Server\\Server.cs",
+              "DocumentMoniker": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\realtime\\ANA_Server\\ANA_Server\\Server.cs",
               "RelativeDocumentMoniker": "ANA_Server\\Server.cs",
-              "ToolTip": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\github\\ANA_Project\\ANA_Server\\Server.cs",
+              "ToolTip": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\realtime\\ANA_Server\\ANA_Server\\Server.cs",
               "RelativeToolTip": "ANA_Server\\Server.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAowD4AAABEAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowD4AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T10:02:17.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Keylogger.c",
+              "DocumentMoniker": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\realtime\\ANA_Server\\ANA_Client\\Events\\Keylogger.c",
+              "RelativeDocumentMoniker": "ANA_Client\\Events\\Keylogger.c",
+              "ToolTip": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\realtime\\ANA_Server\\ANA_Client\\Events\\Keylogger.c",
+              "RelativeToolTip": "ANA_Client\\Events\\Keylogger.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-29T09:50:03.191Z",
+              "EditorCaption": ""
             }
           ]
         }

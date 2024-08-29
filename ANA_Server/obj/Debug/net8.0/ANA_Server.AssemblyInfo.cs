@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ANA_Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dceb467ce811a184a990c61c519bcc8de6aa9ab4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ANA_Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ANA_Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

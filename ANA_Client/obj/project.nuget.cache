@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "10myPNEBmOFHMMO0U3U/xo9tmEflj6y9c42oJovT+iYXkToR4Vcw8MUoBxWDf8b2a7uoSVMEv3iuB2/v8xxtfg==",
+  "dgSpecHash": "igdiDCW2Vui77P5jBU8W8rzNNe60sN/Y7sp4W6MpuZz1Ff3OeW8HgkN71PoVgxZgJIUOY7oKjNMUEqC5y7G9vQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\github\\ANA_Project\\ANA_Client\\ANA_Client.csproj",
+  "projectFilePath": "C:\\Users\\cleme\\Documents\\_ANA_PROJECT\\realtime\\ANA_Server\\ANA_Client\\ANA_Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cleme\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
     "C:\\Users\\cleme\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
